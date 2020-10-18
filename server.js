@@ -9,7 +9,7 @@ const connection = mysql2.createConnection({
   // Your MySQL username
   user: 'root',
   // Your MySQL password
-  password: 'Family0521@',
+  password: '',
   database: 'ice_creamDB'
 });
 
